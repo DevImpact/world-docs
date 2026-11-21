@@ -2,7 +2,7 @@
 
 Welcome to the official documentation repository for **DevImpact**.
 
-DevImpact is a GitHub-based digital ecosystem for organizing, documenting, and presenting software projects and developer resources. This repository explains the ecosystem's purpose, principles, governance, contribution expectations, security practices, and repository structure.
+DevImpact is a GitHub-based digital ecosystem for organizing, documenting, and presenting software projects and developer resources. This repository explains the ecosystem's purpose, principles, governance, contribution expectations, security practices, repository structure, and the initial foundation status.
 
 ## Documentation
 
@@ -10,6 +10,7 @@ DevImpact is a GitHub-based digital ecosystem for organizing, documenting, and p
 - [Governance](docs/GOVERNANCE.md) — ownership, decision-making, and project boundaries.
 - [Principles](docs/PRINCIPLES.md) — standards that guide our work.
 - [Projects and repositories](docs/PROJECTS.md) — the five-repository organization structure.
+- [Initial foundation status](docs/FOUNDATION-STATUS.md) — what has been established and verified, and what this status does not claim.
 - [Contributing](docs/CONTRIBUTING.md) — how to propose and make changes.
 - [Security](docs/SECURITY.md) — responsible handling of vulnerabilities and sensitive information.
 
