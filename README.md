@@ -17,7 +17,8 @@ DevImpact is a GitHub-based digital ecosystem for organizing, documenting, and p
 
 - Organization: https://github.com/DevImpact
 - Main website: https://devimpact.github.io/
-- Public project directory: https://github.com/DevImpact/world-directory
+- Public project directory: https://devimpact.github.io/world-directory/
+- Directory source repository: https://github.com/DevImpact/world-directory
 
 ## Documentation scope
 

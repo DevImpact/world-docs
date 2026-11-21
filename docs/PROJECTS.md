@@ -20,6 +20,8 @@ The DevImpact organization is intentionally limited to the following five reposi
 
 - Visibility: Public
 - Purpose: The public catalog of projects associated with the DevImpact ecosystem.
+- Public directory: https://devimpact.github.io/world-directory/
+- Source repository: https://github.com/DevImpact/world-directory
 - Expected content: Project descriptions and links to their canonical repositories and product pages.
 
 ### 4. `world-docs`
@@ -36,7 +38,7 @@ The DevImpact organization is intentionally limited to the following five reposi
 
 ## Canonical project information
 
-Use [world-directory](https://github.com/DevImpact/world-directory) as the canonical public index of individual projects. Avoid maintaining competing project lists in multiple repositories.
+Use the [public World Directory](https://devimpact.github.io/world-directory/) as the canonical public index of individual projects. Its [source repository](https://github.com/DevImpact/world-directory) contains the directory implementation and structured catalogue. Avoid maintaining competing project lists in multiple repositories.
 
 A project should be described accurately and linked to its authoritative source. Do not imply that a project is hosted inside the DevImpact organization when its repository is owned elsewhere.
 
